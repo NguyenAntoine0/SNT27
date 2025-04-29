@@ -1,13 +1,10 @@
 <!DOCTYPE html>
-<HTML>
+<html lang="fr">
 <body>
 <h1> Bienvenue sur mon site, Je suis Antoine Nguyen </h1>
 <p> Je vais vous parler de ma passion de SNT </p>
-</body>
-</HTML>
 
-<!DOCTYPE html>
-<html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,10 +13,6 @@
 <body>
     <h1>Bienvenue sur mon site SNT !</h1>
     <p>Ce site vous présente les différents chapitres étudiés en Sciences Numériques et Technologie en classe de Seconde.</p>
-
-
-  
-
 
 
 </body>
